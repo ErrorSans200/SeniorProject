@@ -1,0 +1,45 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Bb]uild/
+[Bb]uilds/
+MemoryCaptures/
+
+# User-specific settings
+UserSettings/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Unity cache
+.gradle/
+
+# Crash reports
+sysinfo.txt
+
+# Addressables
+ServerData/
+
+# Large source art/audio/video files (optional)
+# Uncomment if needed
+# *.psd
+# *.blend
+# *.wav
+# *.mp4
